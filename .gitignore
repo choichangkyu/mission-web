@@ -1,0 +1,8 @@
+build/
+.metadata/
+.log
+.classpath
+.cfs
+.cfe
+.si
+.class
