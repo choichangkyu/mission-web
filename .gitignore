@@ -6,3 +6,7 @@ build/
 .cfe
 .si
 .class
+.settings
+.project
+web.xml
+.MF
