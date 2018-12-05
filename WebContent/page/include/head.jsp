@@ -7,6 +7,6 @@
 <title>게시판</title>
 <link rel="stylesheet" href="/Mission-Web/assets/css/index.css">
 <link rel="stylesheet" href="/Mission-Web/assets/css/table.css">
-<script src="/Mission-Web/assets/js/jquery-3.3.1.min.js"></script>
+<script src="/Mission-Web/assets/js/jquery-3.3.1.min.js"></script> <!-- test  -->
 <script src="/Mission-Web/assets/js/main.js"></script>
 </head>
