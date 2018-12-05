@@ -1,12 +1,12 @@
 *.class
 build/
 .metadata/
+.settings/
 .log
 .classpath
 .cfs
 .cfe
 .si
-.settings
 .project
 web.xml
 .MF
