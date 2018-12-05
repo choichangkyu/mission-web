@@ -9,3 +9,4 @@
 <link rel="stylesheet" href="/Mission-Web/assets/css/table.css">
 <script src="/Mission-Web/assets/js/jquery-3.3.1.min.js"></script>
 <script src="/Mission-Web/assets/js/main.js"></script>
+</head>
